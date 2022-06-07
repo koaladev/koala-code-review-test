@@ -20,16 +20,6 @@ The aim is for you to show off your comprehension skills by analyzing the code, 
 - Is there anything that it does well? What are they?
 - How do the components and functions work together?
 
-
-## Getting Started and Submitting
-
-To get started:
-1. Download the zip file from the Google Drive folder that was shared with you
-2. Unzip the project folder onto your local environment
-3. Make your changes
-4. Once complete, zip the folder back up and upload it to the Google Drive folder with a different name (like koala-code-review-test-FINISHED.zip, whatever you like)
-
-
 ## Koala's Tech Stack
 
 At Koala we use the latest web technologies including:
@@ -42,18 +32,6 @@ At Koala we use the latest web technologies including:
 - Cypress
 
 It would be great to see what you can do utilising similar tech in your exercise.
-
-
-## Expectations
-
-Here's what we'd like to see implemented in your solution:
-
-- Mobile first design
-- Mobile and desktop responsive
-- Type safety
-- Component driven development
-- Test driven design
-- Accessibility
 
 
 ## Questions
