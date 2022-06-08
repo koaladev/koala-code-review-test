@@ -9,7 +9,7 @@ We've created an exercise that's a good example of the technologies and capabili
 
 ## Task
 
-This task involves you explaining and demonstrating how code works. It’s important that you communicate clearly and effectively, demonstrating your ability to think critically and simplify concepts to the sum of their parts.
+This task requires you to explain and demonstrate how code works. It’s important that you communicate clearly and effectively, demonstrating your ability to think critically and simplify concepts to the sum of their parts.
 
 The aim is for you to show off your comprehension skills by analyzing the code, coming to an understanding of what it does and how it works, then explaining it back to us.
 
