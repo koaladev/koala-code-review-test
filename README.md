@@ -13,14 +13,14 @@ This task requires you to explain and demonstrate how code works. It’s importa
 
 The aim is for you to show off your comprehension skills by analyzing the code, coming to an understanding of what it does and how it works, then explaining it back to us.
 
-- Things to consider (but not limited to) when talking about the provided code:
+**Things to consider (but not limited to) when talking about the code:**
 - What is it trying to solve or do?
 - How would you improve it?
 - What are the limitations?
 - Is there anything that it does well? What are they?
 - How do the components and functions work together?
 
-**You'll need to walk through Koala engineers how the code functions during your interview**. 
+**You'll need to walk through Koala engineers about how the code works during your interview**. 
 
 ## Koala's Tech Stack
 
