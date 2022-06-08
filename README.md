@@ -20,9 +20,11 @@ The aim is for you to show off your comprehension skills by analyzing the code, 
 - Is there anything that it does well? What are they?
 - How do the components and functions work together?
 
+**You'll need to walk through Koala engineers how the code functions during your interview**. 
+
 ## Koala's Tech Stack
 
-At Koala we use the latest web technologies including:
+To give you an idea about what we use at Koala, we use the latest web technologies including:
 
 - NextJS
 - TypeScript
@@ -30,8 +32,6 @@ At Koala we use the latest web technologies including:
 - GraphQL
 - TailwindCSS
 - Cypress
-
-It would be great to see what you can do utilising similar tech in your exercise.
 
 
 ## Questions
@@ -54,7 +54,9 @@ Reach out to Koala if you have further questions.
 
 - Node.js and npm
 
-### Getting started
+### Getting Started
+
+Make sure you git clone the repo locally to explore the code in your IDE.
 
 Run the following command on your local environment:
 
@@ -88,7 +90,7 @@ Open http://localhost:3000 with your favorite browser to see your project.
 └── tsconfig.json            # TypeScript configuration
 ```
 
-### Deploy to production
+### Deploy to Production
 
 You can see the results locally in production mode with:
 
